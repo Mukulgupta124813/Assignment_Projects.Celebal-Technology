@@ -1,6 +1,6 @@
 # Celebal Technology - Completed Assignments
 
-![Celebal Technology Logo](https://www.example.com/celebal_logo.png)
+![Celebal Technology Logo]([https://www.example.com/celebal_logo.png](https://celebaltech.com/assets/img/celebal.webp))
 
 Welcome to the repository containing completed assignments by Celebal Technology! In this repository, you will find the solutions and code implementations for four different assignments provided by Celebal Technology. Each project is designed to test and enhance various skills, making it an exciting learning journey.
 
